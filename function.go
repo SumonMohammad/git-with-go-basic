@@ -3,12 +3,14 @@ package main
 import "fmt"
 
 func main() {
+
+	CalculatePayable(192.7, 5)
+	CalculatePayable(300, 5)
+
+}
+func CalculatePayable(price float64, count int) {
 	var discount = 0.95
-	var price, total float64
-	var count int
-	price = 200
-	count = 6
-	total = price * float64(count)
+	var total = price * float64(count)
 	if total > 1300 {
 		total *= discount
 	}
