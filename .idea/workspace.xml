@@ -5,8 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0193e19d-f4fa-48fa-898b-ded17a20ba86" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FirstProblemSetOfVivaSoft/leap-year.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstProblemSetOfVivaSoft/length_of_array.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstProblemSetOfVivaSoft/print_asterisk_shape.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstProblemSetOfVivaSoft/recursion.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstProblemSetOfVivaSoft/slice_sum.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionAndPackage/file_read_return_as_string.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionAndPackage/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/DayFive/FuncAndMethod/function.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/DayFive/FuncAndMethod/interface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/DayFive/FuncAndMethod/rectangle.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/DayFive/FuncAndMethod/reversearray.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/DayFive/FuncAndMethod/substring.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/DayOne/arithmatic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/DayOne/error_handle_defer_recover.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/DayThree/reverse-slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/DayTwo/binary-search.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/DayTwo/divide_and_return.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/GoRoutine/channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/GoRoutine/close-channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/GoRoutine/prod_con.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/GoRoutine/prod_con_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/GoRoutine/pubsub.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/GoRoutine/sqrbychannel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoLearnFromScratch/GoRoutine/unbufferedchannel.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +49,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2rN1jurM4cWboY7k3ip1rfsRf6K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
